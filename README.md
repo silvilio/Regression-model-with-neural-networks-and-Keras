@@ -1,4 +1,4 @@
-![](https://github.com/silvilio/Regression-model-with-neural-networks-and-Keras/blob/main/portada.png)
+![](https://github.com/silvilio/Regression-model-with-neural-networks-and-Keras/blob/main/portadas_gitHub_network.png)
 
 <p align="center">
   <a href="#english">
